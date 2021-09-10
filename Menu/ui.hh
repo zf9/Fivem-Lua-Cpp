@@ -9,7 +9,7 @@ namespace ui {
 
 namespace ui {
 	inline LPDIRECT3DDEVICE9 dev;
-	inline const char* window_title = "Sex";
+	inline const char* window_title = "Porn Education";
 }
 
 namespace ui {
